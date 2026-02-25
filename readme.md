@@ -1,7 +1,7 @@
 # 💊 Pill Classification — FP32 / QAT INT8 / ONNX / ONNX-INT8
 
 <img width="360" height="720" alt="K-016551-019607-023203-029451_0_2_0_2_75_000_200" src="https://github.com/user-attachments/assets/d9260991-3a43-4a91-8319-2c3ed83ea546" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/ac4f323e-bbbd-4673-bcf7-676a352bc079" />
+<img width="1000" height="720" alt="image" src="https://github.com/user-attachments/assets/ac4f323e-bbbd-4673-bcf7-676a352bc079" />
 
 
 Bounding-box 기반 약재 이미지 분류 모델을 PyTorch로 학습하고,
