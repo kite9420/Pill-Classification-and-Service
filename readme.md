@@ -1,8 +1,8 @@
 # 💊 Pill Classification — FP32 / QAT INT8 / ONNX / ONNX-INT8
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9260991-3a43-4a91-8319-2c3ed83ea546" width="25%" />
-  <img src="https://github.com/user-attachments/assets/ac4f323e-bbbd-4673-bcf7-676a352bc079" width="65%" />
+  <img src="https://github.com/user-attachments/assets/ac4f323e-bbbd-4673-bcf7-676a352bc079" width="60%" />
+  <img src="https://github.com/user-attachments/assets/d9260991-3a43-4a91-8319-2c3ed83ea546" width="30%" />
 </p>
 
 
