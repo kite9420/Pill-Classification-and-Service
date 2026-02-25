@@ -1,0 +1,10 @@
+삭제 JSON: 8
+
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003351-016262-018357_json\K-003351\K-003351-016262-018357_0_2_0_2_75_000_200.json | missing_png=['K-003351-016262-018357_0_2_0_2_75_000_200.png']
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003351-016262-018357_json\K-016262\K-003351-016262-018357_0_2_0_2_75_000_200.json | missing_png=['K-003351-016262-018357_0_2_0_2_75_000_200.png']
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003351-016688-019232_json\K-003351\K-003351-016688-019232_0_2_0_2_90_000_200.json | missing_png=['K-003351-016688-019232_0_2_0_2_90_000_200.png']
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003351-016688-019232_json\K-019232\K-003351-016688-019232_0_2_0_2_75_000_200.json | missing_png=['K-003351-016688-019232_0_2_0_2_75_000_200.png']
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003351-016688-019232_json\K-019232\K-003351-016688-019232_0_2_0_2_90_000_200.json | missing_png=['K-003351-016688-019232_0_2_0_2_90_000_200.png']
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003351-016688-041768_json\K-003351\K-003351-016688-041768_0_2_0_2_90_000_200.json | missing_png=['K-003351-016688-041768_0_2_0_2_90_000_200.png']
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003351-016688-041768_json\K-041768\K-003351-016688-041768_0_2_0_2_90_000_200.json | missing_png=['K-003351-016688-041768_0_2_0_2_90_000_200.png']
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Training\label\K-003544-004543-012247-016551_json\K-012247\K-003544-004543-012247-016551_0_2_0_2_70_000_200.json | missing_png=['K-003544-004543-012247-016551_0_2_0_2_70_000_200.png']

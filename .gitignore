@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# artifacts / checkpoints
+artifacts/
+checkpoints/
+checkpoints_qat/
+Test_result/
+
+# data
+raw_data/
+
+# OS/IDE
+.vscode/
+.DS_Store

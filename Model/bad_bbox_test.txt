@@ -1,0 +1,11 @@
+총 JSON: 5512
+bbox 길이!=4 인 annotation 수: 8
+기록 라인 수: 8
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016262-027653-030308-038723_json\K-016262\K-016262-027653-030308-038723_0_2_0_2_90_000_200.json | drug_N=K-016262 image_id=1 ann_id=1 bbox_len=0 bbox=[]
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016262-027653-030308-038723_json\K-027653\K-016262-027653-030308-038723_0_2_0_2_90_000_200.json | drug_N=K-027653 image_id=1 ann_id=1 bbox_len=0 bbox=[]
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016262-027653-030308-038723_json\K-030308\K-016262-027653-030308-038723_0_2_0_2_90_000_200.json | drug_N=K-030308 image_id=1 ann_id=1 bbox_len=0 bbox=[]
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016262-027653-030308-038723_json\K-038723\K-016262-027653-030308-038723_0_2_0_2_90_000_200.json | drug_N=K-038723 image_id=1 ann_id=1 bbox_len=0 bbox=[]
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016548-029345-033878-044199_json\K-029345\K-016548-029345-033878-044199_0_2_0_2_70_000_200.json | drug_N=K-029345 image_id=1 ann_id=1 bbox_len=3 bbox=[116.649, 283, 446]
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016551-018110-029345-033878_json\K-018110\K-016551-018110-029345-033878_0_2_0_2_75_000_200.json | drug_N=K-018110 image_id=1 ann_id=1 bbox_len=3 bbox=[562, 135.298, 284]
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016551-018110-029451-029871_json\K-029451\K-016551-018110-029451-029871_0_2_0_2_90_000_200.json | drug_N=K-029451 image_id=1 ann_id=1 bbox_len=3 bbox=[90.825, 407, 242]
+c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016551-019607-027993-033009_json\K-027993\K-016551-019607-027993-033009_0_2_0_2_75_000_200.json | drug_N=K-027993 image_id=1 ann_id=1 bbox_len=3 bbox=[63, 769.268, 286]

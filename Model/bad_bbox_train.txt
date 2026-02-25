@@ -1,0 +1,3 @@
+총 JSON: 4512
+bbox 길이!=4 인 annotation 수: 0
+기록 라인 수: 0

@@ -1,0 +1,4 @@
+삭제 JSON: 1
+삭제 PNG(orphan): 0
+
+JSON DELETE: c:\Users\USER\Desktop\Project1\Model\raw_data\Test\label\K-016548-027993-029451-033208_json\K-016548\K-016548-027993-029451-033208_0_2_0_2_75_000_200.json
